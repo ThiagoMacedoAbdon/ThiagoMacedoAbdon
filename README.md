@@ -1,7 +1,8 @@
-### Olá!!! Me chamo Thiago e seja muito bem-vind@ ao meu GitHub 👋
+### Olá!!!👋
+## Seja bem-vind@ ao meu GitHub 🖥️
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- ✅ https://thiagomacedoabdon.com.br
+- 🔗 https://thiagomacedoabdon.com.br
 
 
 <div align="center">

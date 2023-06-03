@@ -2,7 +2,7 @@
 ## Seja bem-vind@ ao meu GitHub 🖥️
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 🔗 https://thiagomacedoabdon.com.br
+
 
 
 <div align="center">

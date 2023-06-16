@@ -1,7 +1,7 @@
 ### Olá!!!👋
 ## Seja bem-vind@ ao meu GitHub 🖥️
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Análise e Desenvolvimento de Sistemas
 
 
 
